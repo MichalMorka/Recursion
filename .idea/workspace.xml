@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e99aa0b-9d0c-49b9-b945-0e82413f7d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/graZgadywanka/graZgadywankaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listImp/ArrayList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listImp/IList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listImp/ListMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listImp/ListUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listImp/ArrayList2x.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listImp/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/listImp/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadRozgPowRek/zadRozgPowRekMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listImp/ListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listImp/ListMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rabbits/RabFib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rabbits/RabFib.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,38 +62,25 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.ListMain">
-    <configuration name="BabolMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="babol.BabolMain" />
-      <module name="Recursion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="babol.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstNumbers.FirstMain" />
-      <module name="Recursion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="firstNumbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="listImp.ListMain" />
       <module name="Recursion" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="listImp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabFib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rabbits.RabFib" />
+      <module name="Recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rabbits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zadRozgPowRekMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadRozgPowRek.zadRozgPowRekMain" />
+      <module name="Recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadRozgPowRek.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ListMain" />
+        <item itemvalue="Application.zadRozgPowRekMain" />
+        <item itemvalue="Application.RabFib" />
         <item itemvalue="Application.graZgadywankaMain" />
         <item itemvalue="Application.StopMain" />
-        <item itemvalue="Application.BabolMain" />
-        <item itemvalue="Application.FirstMain" />
       </list>
     </recent_temporary>
   </component>
